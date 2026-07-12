@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="ChainBreaker Logo" width="200" />
+  <img src="logo.jpg" alt="ChainBreaker Logo" width="200" />
 </div>
 
 # ChainBreaker
